@@ -1,3 +1,8 @@
+/*
+* Performs tests of the matrixMath class
+* @author Salek Khan
+*/
+
 public class MatrixTester extends MatrixMath
 {
     public static void main(String[] args)
