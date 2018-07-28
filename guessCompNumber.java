@@ -1,3 +1,6 @@
+//Simple number guessing game
+//@author Salek Khan
+
 import java.util.Random;
 import java.util.Scanner;
 public class guessCompNumber
