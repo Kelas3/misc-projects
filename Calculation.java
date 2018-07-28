@@ -1,5 +1,6 @@
-/**
- * hi
+/*
+ * Preforms simple calculations
+ * @author Salek Khan
  */
 import java.util.Scanner;
 
