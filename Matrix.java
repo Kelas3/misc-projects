@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class Matrix here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Composistion of differnt matrix operations
+ * @author Salek Khan 
  */
 public class Matrix 
 {
