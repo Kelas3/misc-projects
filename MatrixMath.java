@@ -1,3 +1,8 @@
+/*
+* Tests different matrix operations
+* @author Salek Khan
+/*
+
 public class MatrixMath
 {   
     /**
