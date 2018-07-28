@@ -1,3 +1,5 @@
+//Computes alternating sum of array
+//@author Salek Khan
 import java.util.Scanner;
 public class alternaingSum 
 {
