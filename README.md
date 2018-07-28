@@ -1,1 +1,1 @@
-# A collection of various Javca projects including a basic car simulator, some image processign programs and a few other projects
+# A collection of various Java projects including a basic car simulator, some basic number exercises and a few other projects
